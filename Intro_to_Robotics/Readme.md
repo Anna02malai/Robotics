@@ -31,6 +31,7 @@ The further details of the project is mentioned in the respective folders as sho
 
 4. Results:
     - The folder contains the [Results.txt](Intro_to_Robotics\Results\Results.txt) where the trajectory configurations are saved and stored. It matches the required format as shown in the [sample.txt](Intro_to_Robotics\Problem_Statement\sample.txt). 
+    - The [Simulation.mp4](Intro_to_Robotics\Results\Simulation.mp4) is the simulation of the robot performing it's prescribed motion
 
 5. Report:
     - The [Report.pdf](Intro_to_Robotics\Report.pdf) file consists of detailed explanation of the concepts and steps on how to achieve the 
@@ -38,4 +39,4 @@ The further details of the project is mentioned in the respective folders as sho
 ### Simulation:
     The Simulation displays the trajectory of the Kuka robot iiwa 7 R800 and how it position its end effector inside a prescribed area while accounting to the potential singularities and self collision.
 
-    <video src="Intro_to_Robotics\Results\Simulation.mp4" width="320" height="240" controls></video>
+    https://github.com/user-attachments/assets/d02bb21c-7cff-4a97-825d-a2d997fbb68c
