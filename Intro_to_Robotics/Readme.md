@@ -38,6 +38,4 @@ The further details of the project is mentioned in the respective folders as sho
 ### Simulation:
     The Simulation displays the trajectory of the Kuka robot iiwa 7 R800 and how it position its end effector inside a prescribed area while accounting to the potential singularities and self collision.
 
-    [![Alternate Text]({Intro_to_Robotics\img.png})]({Intro_to_Robotics\Simulation.mp4} "Kuka IIWA 7 Simulation")
-
-
+    <video src="Intro_to_Robotics\Results\Simulation.mp4" width="320" height="240" controls></video>
