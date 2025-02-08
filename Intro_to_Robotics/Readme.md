@@ -37,6 +37,9 @@ The further details of the project is mentioned in the respective folders as sho
     - The [Report.pdf](Intro_to_Robotics\Report.pdf) file consists of detailed explanation of the concepts and steps on how to achieve the 
 
 ### Simulation:
+
+    <br>
     The Simulation displays the trajectory of the Kuka robot iiwa 7 R800 and how it position its end effector inside a prescribed area while accounting to the potential singularities and self collision.
 
-    [https://github.com/user-attachments/assets/d02bb21c-7cff-4a97-825d-a2d997fbb68c](https://github.com/Anna02malai/Robotics/issues/1#issue-2840188940)
+    https://github.com/user-attachments/assets/d02bb21c-7cff-4a97-825d-a2d997fbb68c
+    
